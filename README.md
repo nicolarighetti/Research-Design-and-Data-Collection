@@ -1,5 +1,5 @@
 # Research Design and Data Collection
-Materials for the course taught in the academic year 2023/2024 at the University of Vienna, Department of Communication, in the international master's program in communication science.
+Materials for the course taught in the academic year 2023/2024 at the University of Vienna, Department of Communication, in the international master's program in communication science. The slides are available in the "lectures" directory.
 
 ## Lectures
 01. Research Essentials. A Primer on Crafting Topics, Posing Questions, Hypothesizing, and Examining Literature in Social Sciences.
